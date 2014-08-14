@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+<head>
+	<meta http-equiv="Cache-Control" content="max-age=0" />
+	<meta http-equiv="Cache-control" content="no-cache" />
+	<meta name="robots" content="noindex" />
+</head>
+
+	<card title="与包子聊天-3GQQ">
+<p>
+</p>
+<p><a  href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;new3gqq=true&amp;aid=nqqchatMain"><img  src="http://3gimg.qq.com/qbar/qbar_qqui_online.gif" alt="聊天"/>QQ</a><a  href="http://sqq.3g.qq.com/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;aid=qbar"><img  src="http://3gimg.qq.com/qbar/qbar_wapsqq.gif" alt="超级QQ"/>(0)</a><a  href="http://house3.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;aid=home_self&amp;g_f=9392"><img  src="http://3gimg.qq.com/qbar/qbar_house.gif" alt="家园"/>(0)</a><a  href="http://pay.3g.qq.com/msgcenter.jsp?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;g_f=6560"><img  src="http://3gimg.qq.com/qbar/qbar_mpay.gif" alt="钱包"/>(0)</a><a  href="http://qbar.3g.qq.com/g/qbar/qbar_list.jsp?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0">&gt;&gt;</a></p>
+<p align="left">
+
+<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqChat&amp;u=923840968&amp;on=1&amp;referer=">刷新消息</a>
+(<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqChat&amp;u=923840968&amp;on=1&amp;referer=&amp;tips=t&amp;saveURL=0">提示</a>)
+<br/>
+<br/>
+<input name="msg" type="text" maxlength="200" emptyok="true"/><br/>
+<anchor><go href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=sendmsg&amp;tfor=qq&amp;referer=" method="post">
+<postfield name="msg" value="$msg"/>
+<postfield name="u" value="923840968"/>
+<postfield name="saveURL" value="0"/>
+<postfield name="do" value="send"/>
+<postfield name="on" value="1"/>
+<postfield name="saveURL" value="0"/>
+</go>发送</anchor>.<a href="http://q32.3g.qq.com/g/s?aid=nqqchatMain&amp;myqq=1146759985&amp;sid=AYiA29NBY58tZF554YPPqg2H&amp;rand=487027">返回前页</a>.<anchor>图片表情<go href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;referer=" method="post">
+<postfield name="msg" value="$msg"/>
+<postfield name="u" value="923840968"/>
+<postfield name="aid" value="nqqEmotion"/>
+<postfield name="saveURL" value="0"/></go></anchor><br/>
+<anchor><go href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=sms_send&amp;tfor=sms&amp;referer=" method="post">
+<postfield name="msg" value="$msg"/>
+<postfield name="num" value="923840968"/>
+<postfield name="saveURL" value="0"/>
+<postfield name="do" value="sendsms"/>
+</go>发送短信给他</anchor><br/>
+包子&nbsp;&nbsp;19:56:31<br/>
+
+老几 <br/>
+1146759985&nbsp;&nbsp;19:07:54<br/>
+
+--------不要忘了加@哦！<br/>
+1146759985&nbsp;&nbsp;19:07:53<br/>
+
+想和我聊天，可以在消息前面加上@哦!<br/>
+【QQ功能】<br/>
+
+<a href="http://sqq2.3g.qq.com/roam/?sid=AYiA29NBY58tZF554YPPqg2H&amp;q=923840968">聊天记录查看\漫游</a>.
+<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqUserInfo&amp;u=923840968&amp;on=1">好友资料</a><br/>
+<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqchatMain&amp;on=1">在线好友</a>.<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqchatMain&amp;on=0">离线好友</a><br/>
+<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqchatMain&amp;on=1&amp;g_f=1657">好友列表</a>.<a href="http://t.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=aurljump&amp;k=gqz&amp;tuin=923840968&amp;g_f=12185">好友微博</a><br/>
+<a href="http://c.gdt.qq.com/gdt_clickwap.fcg?viewid=_!rLXv5!lFEi7nKT!9xfyhWP1drOZfCso4SaRlKJf25a5y_!vJfcGVACPd4xknprX1_0sgQLGih4DnSKgwdX6c_4rI!zg2_A!tT0hK7Jel7wXhaEFAr0FP7Wpc7DhkmMEq2Y1PKpkxgyEPWREEkVXIdGh7ZAP8CF2xY02HZmpmqL!9wB6kl2eHeKUcl108LS0xqI1Je7QNMkJnmlFotxtZpAKLGeF8FnTVR6aeo03BOG0gx43rt4GME1xFEqXqulFOwwRDix2hpCMNwed!w76wQHhWOYMiYIwr2se3v2a!oq1K68S0PA9cbBeJNLyKCWo8N9VSQk6Mm2bVj0OoDN8QWVtKSs3dpUUp3m5cSSlRfeNFMB9zONnA&amp;jtype=0&amp;wapsid=AYiA29NBY58tZF554YPPqg2H&amp;wapver=1&amp;i=1&amp;sid=AYiA29NBY58tZF554YPPqg2H" style="">苹果系列：5S清仓价1380</a><img src="http://v.gdt.qq.com/gdt_stats.fcg?viewid=_!rLXv5!lFEi7nKT!9xfyhWP1drOZfCso4SaRlKJf25a5y_!vJfcGVACPd4xknprX1_0sgQLGih4DnSKgwdX6c_4rI!zg2_A!tT0hK7Jel7wXhaEFAr0FP7Wpc7DhkmMEq2Y1PKpkxgyEPWREEkVXIdGh7ZAP8CF2xY02HZmpmqL!9wB6kl2eHeKUcl108LS0xqI1Je7QNMkJnmlFotxtZpAKLGeF8FnTVR6aeo03BOG0gx43rt4GME1xFEqXqulFOwwRDix2hpCMNwed!w76wQHhWOYMiYIwr2se3v2a!oq1K68S0PA9cbBeJNLyKCWo8N9VSQk6Mm2bVj0OoDN8QWVtKSs3dpUUp3m5cSSlRfeNFMB9zONnA&amp;i=1" style="height:1px;width:1px;visibility:hidden;" alt=" "/><br/></p>
+
+<p>
+普通版|<a href="http://q32.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nqqChat&amp;u=923840968&amp;on=1&amp;g_f=1657&amp;g_ut=2&amp;gutswicher=2">3G版</a>
+<br/>
+<a href="http://info.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=index&amp;login=false">手机腾讯网</a>-<a href="http://info.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=navigation">导航</a>-<a href="http://app.qq.com/g/?aid=index&amp;g_f=990281&amp;sid=AYiA29NBY58tZF554YPPqg2H">软件</a>-<a href="http://pt.3g.qq.com/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;aid=nLogout">退出</a><br /><a href="http://sqq.3g.qq.com/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;aid=qbar">超Q(0)</a>.<a href="http://info60.z.qq.com/infocenter_v2.jsp?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;g_f=6438">空间(0)</a>.<a href="http://house60.3g.qq.com/g/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;aid=home_self&amp;g_f=595">家园(0)</a>.<a href="http://ti2.3g.qq.com/msg/s?sid=AYiA29NBY58tZF554YPPqg2H&amp;3G_UIN=1146759985&amp;saveURL=0&amp;aid=dm2&amp;g_f=12548">微博(4)</a><br /><a href="http://m.sogou.com/web/searchList.jsp?pid=sogou-site-334467d41d5cf21e&amp;e=1409">搜狗</a><input name="qbar_key1405770993218"  type="text" value="女性终极防性侵内裤"/><anchor><go href="http://m.sogou.com/web/searchList.jsp"><postfield name="pid" value="sogou-wsse-16fc18d787294ad5"/><postfield name="e" value="1403"/><postfield name="keyword" value="$qbar_key1405770993218"/></go>搜网页</anchor><br />小Q报时(19:56)<br /></p>
+
+</card>
+</wml>
+__NEW__
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.dtd">
+<wml>
+<head>
+	<meta http-equiv="Cache-Control" content="max-age=0" />
+	<meta http-equiv="Cache-control" content="no-cache" />
+	<meta name="robots" content="noindex" />
+</head>
+<card title="服务器错误">
+<p align="left">
+请求超时，请稍候再试<br/>
+<a href="http://q32.3g.qq.com/g/s?aid=nqqchatMain&amp;myqq=1146759985&amp;sid=AYiA29NBY58tZF554YPPqg2H&amp;rand=487027">返回</a>
+<br/>
+<a href="http://pt.3g.qq.com/s?aid=nLogin3gqq">点此重新登录</a>
+<img src="http://119.147.10.165:8080/3gqq.gif?t=1405770997067&amp;h=q16.3g.qq.com" alt=""/>
+</p>
+
+</card>
+</wml>
