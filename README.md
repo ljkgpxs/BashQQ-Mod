@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 3GQQ_Bash
 =========
 
@@ -22,3 +23,7 @@ Wait for a while, and run this to start the QQ robot.
 
 $ ./start.sh
 
+=======
+BashQQ-Mod
+==========
+>>>>>>> 43f1766eeb202566eb3e51539580f2b13c3dcf8b
