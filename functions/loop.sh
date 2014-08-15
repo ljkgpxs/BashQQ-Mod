@@ -49,7 +49,7 @@ function messageLoop
 			sleep "$sleep"
 			if [ `cat ./freq_blank.txt` -le 1 ]; then
 				freq=$(($freq + 1))
-				echo 1 >./freq_blank.txt
+				echo $freq >./freq_blank.txt
 			fi
 			continue	# No message, return
 		fi

@@ -10,7 +10,7 @@ startnote=
 # (string)	Send after reply strings
 finishnote=
 # (string)	Friend request verify string
-friendverify=zhiyb-AUTO
+friendverify=LjkGpxs-Auto_Reply
 
 # (string)	Program to display image
 #img=./bin/ImageViewer
@@ -25,4 +25,4 @@ retry=10
 # (bool)	Display welcome message after receive
 welcomemsg=0
 # (bool)	Accept friend request
-addfriend=1
+addfriend=2

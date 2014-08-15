@@ -98,11 +98,11 @@ sid=$(getURLArg "$refresh" sid)
 trap quit SIGINT
 
 # Clear the qqlog.txt on time
-./timer_killer.sh &
+#./timer_killer.sh &
 
 
 # Execute main loop
 messageLoop
-echo "Killing Timer Killer!"
+#echo "Killing Timer Killer!"
 killall timer_killer.sh
 exit
